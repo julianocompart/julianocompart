@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Juliano Compart</h2>
-<h3 align="center">A passionate Java backend from Brazil.</h3>
+<h3 align="center">A technology enthusiast and Java backend developer from Brazil..</h3>
 
 - 🔭 I’m currently working on **PicPay**
 
