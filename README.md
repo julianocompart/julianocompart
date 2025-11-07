@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PicPay**
 
-- 🌱 I’m currently learning **Framework Spring, Rest APIs, Kubernetes and much more.**
+- 🌱 I’m currently using **Framework Spring, Rest APIs, Kubernetes and much more.**
 
 - 📫 How to reach me **juliano.csn@gmail.com**
 
